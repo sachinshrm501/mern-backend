@@ -1,0 +1,14 @@
+{
+  "name": "mern-backend",
+  "version": "1.0.0",
+  "description": "A backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "sachin sharma",
+  "license": "ISC"
+}
