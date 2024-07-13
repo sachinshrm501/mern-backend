@@ -8,6 +8,7 @@ app.use(cors({
     origin:process.env.CORS_ORIGIN,
     credentials:true
 }))
+app.use(express.json()) //for parsing postman data
 
 app.use(express({limit:"16kb"}))//server data send limit
 
